@@ -28,7 +28,7 @@ organizations:
     url: https://ub.ac.id/
 education:
   courses:
-    - course: MCS in Computer Science
+    - course: MCs in Computer Science
       institution: Brawijaya University
       year: 2018
     - course: BSc in Informatics Engineering
