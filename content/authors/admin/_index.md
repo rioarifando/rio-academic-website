@@ -52,5 +52,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
 
-* {{< icon name="googlescholar" pack="ai" >}}{{< staticref "https://scholar.google.com/citations?user=Ym-DKXAAAAAJ&hl=en" "newtab" >}}Google Scholar{{< /staticref >}}.
-* {{< icon name="researchgate" pack="fab" >}}{{< staticref "https://www.researchgate.net/profile/Rio-Arifando" "newtab" >}}Research Gate{{< /staticref >}}.
+* {{< icon name="google-scholar" pack="ai" >}}{{< staticref "https://scholar.google.com/citations?user=Ym-DKXAAAAAJ&hl=en" "newtab" >}}Google Scholar{{< /staticref >}}.
+* {{< icon name="researchgate" pack="ai" >}}{{< staticref "https://www.researchgate.net/profile/Rio-Arifando" "newtab" >}}Research Gate{{< /staticref >}}.
