@@ -28,15 +28,12 @@ organizations:
     url: https://ub.ac.id/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MCS in Computer Science
+      institution: Brawijaya University
+      year: 2018
+    - course: BSc in Informatics Engineering
+      institution: Brawijaya University
+      year: 2011
 email: ""
 superuser: true
 highlight_name: false
