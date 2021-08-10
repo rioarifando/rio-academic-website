@@ -34,7 +34,7 @@ education:
     - course: BSc in Informatics Engineering
       institution: Brawijaya University
       year: 2011
-email: ""
+email: arifadas
 superuser: true
 user_groups:
   - GOGOLE
