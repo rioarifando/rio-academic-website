@@ -23,6 +23,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/rioarifando
+  - display:
+      header: false
+    link: https://www.instagram.com/rioarifando/
+    icon_pack: fab
+    icon: instagram
 organizations:
   - name: Brawijaya University
     url: https://ub.ac.id/
