@@ -4,7 +4,9 @@ role: Data Science
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Machine
+  - Machine Learning
+  - Neural Network
+  - Expert Systems
 social:
   - icon: envelope
     icon_pack: fas
