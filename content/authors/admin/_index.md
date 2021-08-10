@@ -36,6 +36,8 @@ education:
       year: 2011
 email: ""
 superuser: true
+user_groups:
+  - GOGOLE
 highlight_name: false
 ---
 
