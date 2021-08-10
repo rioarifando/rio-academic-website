@@ -1,8 +1,8 @@
 ---
 title: Rio Arifando
 role: Data Science
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Machine Learning, Neural Network and Expert
+  Systems.
 interests:
   - Machine Learning
   - Neural Network
