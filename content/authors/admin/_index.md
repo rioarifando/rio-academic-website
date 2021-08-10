@@ -1,12 +1,10 @@
 ---
 title: Rio Arifando
-role: Artificial Intelligence
+role: Data Science
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine
 social:
   - icon: envelope
     icon_pack: fas
