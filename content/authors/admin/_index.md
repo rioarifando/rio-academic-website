@@ -16,13 +16,13 @@ social:
     link: https://twitter.com/rioarifando
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Ym-DKXAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/rioarifando
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/rioarifando
 organizations:
   - name: Brawijaya University
     url: https://ub.ac.id/
