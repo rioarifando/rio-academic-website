@@ -11,23 +11,28 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - display:
+      header: false
+    link: https://www.facebook.com/rioarifando
+    icon_pack: fab
+    icon: facebook
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/rioarifando
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=Ym-DKXAAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/rioarifando
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/rioarifando
   - display:
       header: false
     link: https://www.instagram.com/rioarifando/
     icon_pack: fab
     icon: instagram
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/rioarifando
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/rioarifando
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=Ym-DKXAAAAAJ&hl=en
 organizations:
   - name: Brawijaya University
     url: https://ub.ac.id/
