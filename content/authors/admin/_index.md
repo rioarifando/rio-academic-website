@@ -30,9 +30,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/rioarifando
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=Ym-DKXAAAAAJ&hl=en
 organizations:
   - name: Brawijaya University
     url: https://ub.ac.id/
@@ -55,5 +52,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
 
-* {{< icon name="googlescholar" pack="fab" >}}{{< staticref "https://scholar.google.com/citations?user=Ym-DKXAAAAAJ&hl=en" "newtab" >}}Google Scholar{{< /staticref >}}.
+* {{< icon name="googlescholar" pack="ai" >}}{{< staticref "https://scholar.google.com/citations?user=Ym-DKXAAAAAJ&hl=en" "newtab" >}}Google Scholar{{< /staticref >}}.
 * {{< icon name="researchgate" pack="fab" >}}{{< staticref "https://www.researchgate.net/profile/Rio-Arifando" "newtab" >}}Research Gate{{< /staticref >}}.
