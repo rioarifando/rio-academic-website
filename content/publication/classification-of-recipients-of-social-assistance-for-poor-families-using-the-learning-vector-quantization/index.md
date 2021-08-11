@@ -10,8 +10,8 @@ authors:
   - Rio Arifando
   - Nurul Hidayat
   - Arief Andy Soebroto
-publication: in *Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer*
-publication_short: in *J-PTIIK*
+publication: In *Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer*
+publication_short: In *J-PTIIK*
 abstract: >-
   In an effort to reduce poverty, the government of Mladingan sub-district,
   Situbondo provides
