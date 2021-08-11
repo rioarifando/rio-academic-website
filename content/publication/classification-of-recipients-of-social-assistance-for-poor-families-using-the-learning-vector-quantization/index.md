@@ -10,7 +10,7 @@ authors:
   - Rio Arifando
   - Nurul Hidayat
   - Arief Andy Soebroto
-publication: in *Jurnal Pengembangan Teknlogi Informasi dan Ilmu Komputer*
+publication: in *Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer*
 publication_short: in *J-PTIIK*
 abstract: >-
   In an effort to reduce poverty, the government of Mladingan sub-district,
