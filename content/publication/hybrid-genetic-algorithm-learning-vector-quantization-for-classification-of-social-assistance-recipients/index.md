@@ -29,8 +29,8 @@ abstract: "The social assistance program called “Rastra” is a government pro
 draft: false
 featured: false
 projects:
-  - slides
-slides: slides
+  - example
+slides: example
 image:
   filename: featured
   focal_point: Smart
