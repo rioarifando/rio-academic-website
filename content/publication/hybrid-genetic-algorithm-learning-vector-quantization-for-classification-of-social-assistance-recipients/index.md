@@ -1,6 +1,8 @@
 ---
 title: Hybrid Genetic Algorithm & Learning Vector Quantization for
   Classification of Social Assistance Recipients
+subtitle: Hybrid Genetic Algorithm & Learning Vector Quantization for
+  Classification of Social Assistance Recipients
 publication_types:
   - "1"
 authors:
@@ -26,8 +28,16 @@ abstract: "The social assistance program called “Rastra” is a government pro
   learning rate (dec a) 0, 1. The use of the LVQ method that is optimized using
   GA has been shown to provide better results, with higher accuracy values
   compared to the LVQ method without being optimized."
-draft: false
+draft: true
 featured: false
+tags:
+  - social assistance
+  - classification
+  - learning vector quantization
+  - optimization
+  - genetic algorithm
+categories:
+  - Classification
 projects: []
 slides: ""
 image:
