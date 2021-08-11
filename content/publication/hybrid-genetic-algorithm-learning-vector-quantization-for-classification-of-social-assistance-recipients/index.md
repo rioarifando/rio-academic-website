@@ -28,7 +28,7 @@ abstract: "The social assistance program called “Rastra” is a government pro
   learning rate (dec a) 0, 1. The use of the LVQ method that is optimized using
   GA has been shown to provide better results, with higher accuracy values
   compared to the LVQ method without being optimized."
-draft: true
+draft: false
 featured: false
 tags:
   - social assistance
