@@ -28,9 +28,8 @@ abstract: "The social assistance program called “Rastra” is a government pro
   compared to the LVQ method without being optimized."
 draft: false
 featured: false
-projects:
-  - example
-slides: CONTENT
+projects: []
+slides: ""
 image:
   filename: featured
   focal_point: Smart
