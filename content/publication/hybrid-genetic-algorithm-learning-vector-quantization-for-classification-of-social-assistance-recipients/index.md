@@ -9,6 +9,8 @@ authors:
   - Wayan Firdaus Mahmudy
   - Bobby Apryanto Sander
 doi: 10.1109/SIET48054.2019.8986082
+publication: In *IEEE*
+publication_short: In *IEEE*
 abstract: "The social assistance program called “Rastra” is a government program
   that aims to ease the burden on poor families by providing food. However, the
   distribution of the food to prospective beneficiaries is still not accurate.
