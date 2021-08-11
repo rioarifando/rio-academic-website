@@ -53,7 +53,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-  caption: aaaa
-  alt_text: cccc
+  caption: ""
+  alt_text: ""
 date: 2021-08-11T08:10:34.987Z
 ---
