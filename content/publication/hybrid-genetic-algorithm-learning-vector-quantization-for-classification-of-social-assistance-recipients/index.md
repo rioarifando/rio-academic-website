@@ -30,7 +30,7 @@ draft: false
 featured: false
 projects:
   - example
-slides: example
+slides: CONTENT
 image:
   filename: featured
   focal_point: Smart
