@@ -27,7 +27,7 @@ feature:
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Python
+  name: Pythonnnnnnnnnnnnnnnn
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
