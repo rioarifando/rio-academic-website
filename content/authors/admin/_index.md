@@ -1,6 +1,6 @@
 ---
 title: Rio Arifando
-role: Master student in Computer Science
+role: Doctoral Student
 bio: My research interests include Machine Learning, Neural Network and Expert
   Systems.
 interests:
@@ -31,16 +31,19 @@ social:
     icon_pack: fab
     link: https://github.com/rioarifando
 organizations:
-  - name: Brawijaya University
-    url: https://ub.ac.id/
+  - name: Human-Function Substitution Systems Laboratory, Kyushu Institute of
+      Technology
+    url: http://www.brain.kyutech.ac.jp/~wada/index.html
 education:
   courses:
-    - course: MCs in Computer Science
+    - institution: Kyushu Institute of Technology
+      course: PhD - Life Science and Systems Engineering
+    - course: MCs - Computer Science
       institution: Brawijaya University
-      year: 2018
-    - course: BSc in Informatics Engineering
+      year: ""
+    - course: BSc - Informatics Engineering
       institution: Brawijaya University
-      year: 2011
+      year: ""
 email: ""
 superuser: true
 user_groups: []
