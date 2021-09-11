@@ -12,7 +12,7 @@ abstract: The International Conference on Sustainable Information Engineering
   2019 will be "Sustainable information engineering and technology for applied
   data analytics in industry and education sectors."
 location: Aruna Senggigi Resort & Convention, Senggigi, Kabupaten Lombok Barat,
-  West Nusa Tenggara, Indonesia
+  West Nusa Tenggara, Indonesia.
 date: 2019-09-28T13:00:00.000Z
 all_day: false
 event: SIET Conference
