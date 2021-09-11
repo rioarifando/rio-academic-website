@@ -1,6 +1,5 @@
 ---
-title: SIET - The 4th International Conference on Sustainable Information
-  Engineering and Technology
+title: SIET - The 4th International Conference
 abstract: The International Conference on Sustainable Information Engineering
   and Technology (SIET) and its satellite events are held to bring together
   academia, researchers, business entrepreneurs, practitioners, and policymakers
