@@ -4,7 +4,8 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
   urna, suscipit quis sapien eu, pulvinar tempor diam.
-location: Wowchemy HQ
+location: Aruna Senggigi Resort & Convention, Senggigi, Kabupaten Lombok Barat,
+  West Nusa Tenggara, Indonesia
 date: 2019-09-28T13:00:00.000Z
 all_day: false
 event: Wowchemy Conference
