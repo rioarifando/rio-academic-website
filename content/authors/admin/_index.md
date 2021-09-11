@@ -36,13 +36,13 @@ organizations:
     url: http://www.brain.kyutech.ac.jp/~wada/index.html
 education:
   courses:
-    - institution: Kyushu Institute of Technology
+    - institution: Kyushu Institute of Technology - Japan
       course: PhD - Life Science and Systems Engineering
     - course: MCs - Computer Science
-      institution: Brawijaya University
+      institution: Brawijaya University - Indonesia
       year: ""
     - course: BSc - Informatics Engineering
-      institution: Brawijaya University
+      institution: Brawijaya University - Indonesia
       year: ""
 email: ""
 superuser: true
