@@ -49,7 +49,9 @@ superuser: true
 user_groups: []
 highlight_name: false
 ---
-Rio Arifando is currently a first year PhD student working under the supervision of Professor Wada Chikamune in the Human-Function Substitution Systems Laboratory at the Kyushu Institute of Technology. Prior to coming to Japan, he worked as a Research Assistant at Brawijaya University and as a Programmer at MWprolabs. Rio holds BSc and MSc degrees in computer science from Brawijaya University.
+Rio Arifando is currently a first year PhD student working under the supervision of Professor Wada Chikamune in the Human-Function Substitution Systems Laboratory at the Kyushu Institute of Technology. 
+
+Prior to coming to Japan, he worked as a Research Assistant at Brawijaya University and as a Programmer at MWprolabs. He holds BSc and MSc degrees in computer science from Brawijaya University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
 
