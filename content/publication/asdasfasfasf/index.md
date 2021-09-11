@@ -10,9 +10,10 @@ authors:
   - Wayan Firdaus Mahmudy
   - Syamsuddin Djauhari
 author_notes:
-  - FirstAuthor
-  - 1stSupervisor
-  - 2ndSupervisor
+  - First Author
+  - 1st Supervisor
+  - 2nd Supervisor
+publication: Master Thesis
 draft: false
 featured: true
 image:
