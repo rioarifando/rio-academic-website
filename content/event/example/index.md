@@ -5,14 +5,14 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
   urna, suscipit quis sapien eu, pulvinar tempor diam.
 location: Wowchemy HQ
-date: 2030-06-01T13:00:00Z
+date: 2019-09-28T13:00:00.000Z
 all_day: false
 event: Wowchemy Conference
 slides: example
 draft: true
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
-date_end: 2030-06-01T15:00:00Z
+date_end: 2019-09-30T15:00:00.000Z
 event_url: https://example.org
 featured: false
 authors: []
@@ -29,7 +29,7 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 projects:
   - example
