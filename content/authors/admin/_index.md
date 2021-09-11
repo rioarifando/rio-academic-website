@@ -49,9 +49,7 @@ superuser: true
 user_groups: []
 highlight_name: false
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Rio Arifando is currently a first year PhD student working under the supervision of Professor Wada Chikamune in the Human-Function Substitution Systems Laboratory at the Kyushu Institute of Technology. Prior to coming to Japan, he worked as a Research Assistant at Brawijaya University and as a Programmer at MWprolabs. Rio holds BSc and MSc degrees in computer science from Brawijaya University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
 
