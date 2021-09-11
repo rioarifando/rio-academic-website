@@ -30,8 +30,8 @@ address:
   country: Indonesia
   country_code: ID
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '-7.9525043'
+  longitude: '112.6116717'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'
