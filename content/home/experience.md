@@ -26,14 +26,23 @@ experience:
     company: MWprolabs
     company_url: 'https://www.mwprolabs.com/'
     company_logo: mwpl
-    location: Malang
-    date_start: '2019-08-12'
+    location: Indonesia
+    date_start: '2016-08-12'
     date_end: ''
     description: |2-
         Responsibilities include:
         
         * Analysing user needs
         * Modelling software features
+        
+  - title: Assistant lecturer
+    company: Brawijaya University
+    company_url: ''
+    company_logo: assist
+    location: Indonesia
+    date_start: '2018-01-01'
+    date_end: '2019-12-31'
+    description: Assisting several researches related to Neural Network and Machine Learning.
 
 design:
   columns: '2'
