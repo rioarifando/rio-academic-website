@@ -22,7 +22,7 @@ tags:
 projects:
   - Classification of Rice Plant Diseases
 image:
-  filename: featured
+  filename: screen-shot-2021-09-12-at-03.02.16.png
   focal_point: Smart
   preview_only: false
 date: 2020-08-31T19:21:44.298Z
