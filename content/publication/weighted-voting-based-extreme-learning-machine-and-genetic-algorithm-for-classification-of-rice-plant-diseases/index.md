@@ -4,55 +4,47 @@ title: Weighted Voting Based Extreme Learning Machine And Genetic Algorithm For
 subtitle: Weighted Voting Based Extreme Learning Machine Dan Genetic Algorithm
   Untuk Klasifikasi Penyakit Tanaman Padi
 publication_types:
-  - "1"
+  - "7"
 authors:
-  - admin
-  - Robert Ford
-publication_short: In *ICW*
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
+  - Rio Arifando
+  - Wayan Firdaus Mahmudy
+  - Syamsuddin Djauhari
+publication_short: FILKOM
+abstract: >-
+  Rice plant disease is one of the factors that cause productivity and quality
+  of rice decreases and can cause crop failure. Intelligent systems can be used
+  to classify diseases rice plants and make a decision based on the method used,
+  so that it can assist farmers in identifying disease. One method that can be
+  used to solve
+
+  classification problem is Voting Based Extreme Learning Machine (VELM). The VELM method adapts the concept of ensemble learning by combining ELM classifier as much as K. To determine the effect of each classifier In this case, the VELM method is combined with the weighting technique majority vote. However, in determining the weight will be difficult because must determine the proper weight for each classifier. In this research, optimization using Genetic Algorithm (GA) is proposed to optimize weighted majority voting on VELM.
 draft: false
 featured: true
 projects:
-  - example
-slides: example
+  - Thesis
+slides: ""
 url_pdf: ""
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 author_notes:
-  - Equal contribution
-  - Equal contribution
+  - First Author
+  - Supervisor
+  - Supervisor
 doi: ""
-publication: In *Wowchemy Conference*
-tags: []
+publication: Faculty of Computer Science Brawijaya University
+tags:
+  - Classification
+  - Optimization
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: "Image credit: [**Milkom2018**](https://mcs.filkom.ub.ac.id/)"
   focal_point: ""
   preview_only: false
-date: 2021-09-11T20:12:05.995Z
+date: 2020-08-31T20:30:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
