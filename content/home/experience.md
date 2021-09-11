@@ -35,7 +35,7 @@ experience:
         * Analysing user needs
         * Modelling software features
         
-  - title: Assistant lecturer
+  - title: Research Assistant
     company: Brawijaya University
     company_url: ''
     company_logo: assist
