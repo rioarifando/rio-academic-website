@@ -1,5 +1,5 @@
 ---
-title: SIET - The 4th International Conference
+title: SIET - The 4th International Conferences
 abstract: The International Conference on Sustainable Information Engineering
   and Technology (SIET) and its satellite events are held to bring together
   academia, researchers, business entrepreneurs, practitioners, and policymakers
@@ -41,7 +41,7 @@ projects: []
 image:
   caption: "Image credit: [**SIET19**](https://siet.ub.ac.id/event/siet19)"
   focal_point: Right
-  filename: screen-shot-2021-09-12-at-01.55.35.png
+  filename: ""
   preview_only: false
 url_code: ""
 ---
