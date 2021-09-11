@@ -22,19 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
+  - title: Associate backend engineer
     company: MWprolabs
     company_url: 'https://www.mwprolabs.com/'
     company_logo: mwpl
     location: Malang
-    date_start: '2021-01-01'
+    date_start: '2019-08-12'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Analysing user needs
+        * Modelling software features
         
   - title: Professor of Semiconductor Physics
     company: University X
