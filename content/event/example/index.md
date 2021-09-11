@@ -17,7 +17,8 @@ event: SIET Conference
 slides: ""
 draft: false
 url_pdf: ""
-summary: The International Conference on Sustainable Information Engineering and Technology (SIET)
+summary: The International Conference on Sustainable Information Engineering and
+  Technology (SIET)
 date_end: 2019-09-30T15:00:00.000Z
 event_url: https://siet.ub.ac.id/event/siet19
 featured: false
@@ -39,7 +40,8 @@ publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: "Image credit: [**SIET19**](https://siet.ub.ac.id/event/siet19)"
   focal_point: Right
+  filename: screen-shot-2021-09-12-at-01.55.35.png
 url_code: ""
 ---
