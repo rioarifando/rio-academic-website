@@ -1,9 +1,16 @@
 ---
-title: Example Talk
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam.
+title: SIET - The 4th International Conference on Sustainable Information
+  Engineering and Technology
+abstract: The International Conference on Sustainable Information Engineering
+  and Technology (SIET) and its satellite events are held to bring together
+  academia, researchers, business entrepreneurs, practitioners, and policymakers
+  who are responsible for applying information engineering and technology by
+  leveraging data analytics to support sustainable development in education as
+  well as industry. As the data involved in industry and education rapidly
+  grows, the more advanced technology and technique are required to derive
+  meaningful information from raw data. Based on such issue, the theme for SIET
+  2019 will be "Sustainable information engineering and technology for applied
+  data analytics in industry and education sectors."
 location: Aruna Senggigi Resort & Convention, Senggigi, Kabupaten Lombok Barat,
   West Nusa Tenggara, Indonesia
 date: 2019-09-28T13:00:00.000Z
