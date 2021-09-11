@@ -11,8 +11,7 @@ abstract: The International Conference on Sustainable Information Engineering
   meaningful information from raw data. Based on such issue, the theme for SIET
   2019 will be "Sustainable information engineering and technology for applied
   data analytics in industry and education sectors."
-location: Aruna Senggigi Resort & Convention, Senggigi, Kabupaten Lombok Barat,
-  West Nusa Tenggara, Indonesia.
+location: West Nusa Tenggara, Indonesia.
 date: 2019-09-28T13:00:00.000Z
 all_day: false
 event: SIET Conference
@@ -27,11 +26,11 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  street: Aruna Senggigi Resort & Convention
+  city: Senggigi
+  region: Lombok barat
+  postcode: "83355"
+  country: Indonesia
 links:
   - icon: twitter
     icon_pack: fab
