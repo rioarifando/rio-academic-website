@@ -42,7 +42,7 @@ projects: []
 image:
   caption: "Image credit: [**SIET19**](https://siet.ub.ac.id/event/siet19)"
   focal_point: Right
-  filename: screen-shot-2021-09-12-at-01.55.35.png
+  filename: ""
   preview_only: false
 url_code: ""
 ---
