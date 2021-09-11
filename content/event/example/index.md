@@ -15,13 +15,13 @@ location: Aruna Senggigi Resort & Convention, Senggigi, Kabupaten Lombok Barat,
   West Nusa Tenggara, Indonesia
 date: 2019-09-28T13:00:00.000Z
 all_day: false
-event: Wowchemy Conference
-slides: example
+event: SIET Conference
+slides: ""
 draft: false
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 date_end: 2019-09-30T15:00:00.000Z
-event_url: https://example.org
+event_url: https://siet.ub.ac.id/event/siet19
 featured: false
 authors: []
 url_video: ""
@@ -36,7 +36,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/rioarifando
 publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 projects:
