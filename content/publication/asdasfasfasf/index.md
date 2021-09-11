@@ -16,6 +16,11 @@ author_notes:
 publication: Master Thesis
 draft: false
 featured: true
+tags:
+  - Classification
+  - Optimization
+projects:
+  - Classification of Rice Plant Diseases
 image:
   filename: featured
   focal_point: Smart
