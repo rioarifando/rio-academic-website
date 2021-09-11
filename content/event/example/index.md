@@ -18,7 +18,7 @@ event: SIET Conference
 slides: ""
 draft: false
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: The International Conference on Sustainable Information Engineering and Technology (SIET)
 date_end: 2019-09-30T15:00:00.000Z
 event_url: https://siet.ub.ac.id/event/siet19
 featured: false
