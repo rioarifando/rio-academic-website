@@ -23,12 +23,12 @@ twitter: ''
 email: test@example.org
 phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Jl. Veteran
+  city: Malang
+  region: East Java
+  postcode: '65145'
+  country: Indonesia
+  country_code: ID
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
