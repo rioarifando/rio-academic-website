@@ -3,7 +3,7 @@ title: asdasfasfasf
 publication_types:
   - "0"
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
