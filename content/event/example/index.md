@@ -35,7 +35,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/rioarifando
+    url: https://twitter.com/sietub
 publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 projects: []
