@@ -41,7 +41,7 @@ experience:
     company_logo: assist
     location: Indonesia
     date_start: '2018-01-01'
-    date_end: '2019-12-31'
+    date_end: '2020-02-05'
     description: Assisting several researches related to Neural Network and Machine Learning.
 
 design:
