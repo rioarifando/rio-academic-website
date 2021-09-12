@@ -1,6 +1,7 @@
 ---
 title: Rio Arifando
 role: Doctoral Student
+avatar_filename: screen-shot-2021-09-12-at-17.02.35.png
 bio: My research interests include Machine Learning, Neural Network and Expert
   Systems.
 interests:
@@ -26,7 +27,7 @@ social:
     icon: instagram
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/rioarifando
+    link: https://www.linkedin.com/in/rioarifando
   - icon: github
     icon_pack: fab
     link: https://github.com/rioarifando
