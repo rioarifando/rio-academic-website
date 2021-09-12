@@ -26,7 +26,7 @@ social:
     icon: instagram
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/rioarifando
+    link: https://www.linkedin.com/in/rioarifando
   - icon: github
     icon_pack: fab
     link: https://github.com/rioarifando
