@@ -1,7 +1,7 @@
 ---
 title: Rio Arifando
 role: Doctoral Student
-avatar_filename: screen-shot-2021-09-12-at-17.02.35.png
+avatar_filename: screen-shot-2022-02-06-at-17.34.28.png
 bio: My research interests include Machine Learning, Neural Network and Expert
   Systems.
 interests:
